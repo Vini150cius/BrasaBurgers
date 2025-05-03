@@ -34,7 +34,7 @@ export default StyleSheet.create({
     alignItems: 'center',
 
   },
-  posicao:{
+  position:{
     justifyContent: 'center',
     alignItems: 'flex-start',
     flexDirection:'row',
@@ -42,29 +42,29 @@ export default StyleSheet.create({
     flex:1,
     backgroundColor: '#F49E4C',
   },
-  texto:{
+  text:{
     fontWeight: 'bold',
     fontFamily:'Helvetica',
     fontSize: 14,
   },
-  texto1:{
+  text1:{
     fontFamily:'Helvetica',
     fontSize:20,
     paddingHorizontal:5,
   },
-  texto2:{
+  text2:{
     fontFamily:'Georgia',
     fontStyle: 9,
     paddingHorizontal:5
 
   },
-  texto3:{
+  text3:{
     fontFamily:'Arial',
     fontSize: 16,
     fontWeight: 'bold',
     paddingHorizontal:5
   },
-  detalhes:{    
+  details:{    
     width: 200
   },
   display:{
