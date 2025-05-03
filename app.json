@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BrasaBurguers",
+    "slug": "BrasaBurguers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo-TCC.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Logo-TCC.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo-TCC.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/Logo-TCC.png"
+    }
+  }
+}
